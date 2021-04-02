@@ -5,7 +5,7 @@
 <h1>HOW TO RUN</h1>
 <ol>
  <li>Clone the project from git.</li>
-  <li>Go to 'React_App_Crud' directory.</li>
+  <li>Go to 'CRUD_ReactJS' directory.</li>
   <li>Run yarn or npm install.</li>
   <li>Run npm start.</li>
  </ol>
